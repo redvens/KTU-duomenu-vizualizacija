@@ -1,5 +1,9 @@
 # R Laboratorinis darbas: duomenų vizualizacija
 
+| Variantas | ecoActCode |
+|------------- | ------------- |
+|18   | 123456 |
+
 ### 1. Užduotis
 
 Atsakymas:
