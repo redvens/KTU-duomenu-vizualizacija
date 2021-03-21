@@ -36,5 +36,5 @@ Išvados:
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/grafikas.PNG)
-![shiny app](img/lentele.PNG)
+![shiny app](img/grafikas.png)
+![shiny app](img/lentele.png)
