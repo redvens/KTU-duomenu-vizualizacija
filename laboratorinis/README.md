@@ -2,7 +2,7 @@
 
 | Variantas | ecoActCode |
 |------------- | ------------- |
-|18   | 123456 |
+|5   | 862300 |
 
 test
 
@@ -10,7 +10,7 @@ test
 
 Atsakymas:
 
-![histograma](img/pavyzdys1.png)
+![histograma](img/Histogram.png)
 
 Išvados:
 
@@ -18,7 +18,7 @@ Išvados:
 
 Atsakymas:
 
-![atlyginimai](img/pavyzdys2.png)
+![atlyginimai](img/Line.png)
 
 Išvados:
 
@@ -27,7 +27,7 @@ Išvados:
 
 Atsakymas:
 
-![apdraustieji](img/pavyzdys3.png)
+![apdraustieji](img/col.png)
 
 Išvados:
 
@@ -36,4 +36,5 @@ Išvados:
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/shiny_example.png)
+![shiny app](img/grafikas.PNG)
+![shiny app](img/lentele.PNG)
